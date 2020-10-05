@@ -1,7 +1,8 @@
 #pragma once
+
+
 #ifndef ___IntStack
 #define ___IntStack
-#endif // !___IntStack
 
 typedef struct {
 	int max;
